@@ -17,6 +17,7 @@ Intructions:
 	python manage.py createsuperuser //to create admin ( optional )
 
 4: other commands to remember
+
 	python manage.py shell
 	python manage.py makemigrations
 	python manage.py sqlmigrate ----- ------
