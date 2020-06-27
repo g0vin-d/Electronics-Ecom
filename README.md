@@ -21,7 +21,7 @@ Intructions:
 	python manage.py shell
 	python manage.py makemigrations
 	python manage.py sqlmigrate ----- ------
-	
+	deactivate (to deactivate virtual env later)	
 
 
 
