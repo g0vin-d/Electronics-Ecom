@@ -23,5 +23,7 @@ Intructions:
 	python manage.py sqlmigrate ----- ------
 	deactivate (to deactivate virtual env later)	
 
-
+![homepage](Screenshots/home.png)
+![cart](Screenshots/cart.png)
+![checkout](Screenshots/checkout.png)
 
